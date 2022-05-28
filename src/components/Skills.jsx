@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-no-comment-textnodes */
 import React from 'react';
 import HtmlLogo from '../assets/skills/html-logo.png';
 import GithubLogo from '../assets/skills/github-logo.png';
